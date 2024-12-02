@@ -9,6 +9,7 @@ DegenToken is an Ethereum smart contract that implements an ERC-20 token with a 
 
 Features
 
+
 ERC-20 Token Implementation
 Game Items
 Owned Items Tracking
